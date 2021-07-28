@@ -4,7 +4,7 @@ import Geocode from "react-geocode";
 import Autocomplete from 'react-google-autocomplete';
 import { Descriptions } from 'antd';
 
-const { MarkerWithLabel } = require("react-google-maps/lib/components/addons/MarkerWithLabel");
+
 
 
 Geocode.setApiKey("AIzaSyALVjLwOIM1gf7EzdJJVmWLKdLP-yZGTcw");
